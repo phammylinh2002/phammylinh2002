@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, philosophy, books and matcha
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on data engineering projects
-- 📫 How to reach me (LinkedIn)[www.linkedin.com/in/phammylinh2002]
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/phammylinh2002)
 - ⚡ Fact: I made a major change from marketing to management information systems 2 years ago and I am still striving my best to make the most of myself in tech 😊
 
 <!---
