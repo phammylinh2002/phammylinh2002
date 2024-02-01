@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phammylinh2002
 - 👀 I’m interested in technology, philosophy, books and matcha
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on data engineering projects
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on any project (I am a curious person)
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/phammylinh2002)
 - ⚡ Fact: I made a major change from marketing to management information systems 2 years ago and I am still striving my best to make the most of myself in tech 😊
 
